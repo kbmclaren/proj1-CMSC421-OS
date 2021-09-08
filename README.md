@@ -2,6 +2,7 @@
 ## Description
 This project required me to implement a number of functions to create a simple linux shell interface to perform basic linux commands.
 <br>
+I do not include the VM set up or linux OS code. This is an example of my work in C.<br> 
 
 ## Repo Content
 - src : <br>
