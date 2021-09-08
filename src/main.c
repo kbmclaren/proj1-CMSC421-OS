@@ -5,8 +5,8 @@
 
     Due Date: 2/28/21 11:59:00 pm
 
-    Author Name:
-    Author email:
+    Author Name: Caleb M. McLaren
+    Author email: mclaren1@umbc.edu
     Description: a simple linux shell designed to perform basic linux commands
 */
 
